@@ -1,0 +1,18 @@
+Командная строка (Terminal) Linux
+Git/Github
+HTTP запросы на сервер.
+Postman (JS, автотесты API).
+Снятие и чтение логов c внешнего сервера.
+Снифинг http web трафика через Charles и Fiddler.
+Dev Tools веб браузеров (Google Chrome, FireFox).
+Мобильное тестирование.
+Сборка iOS приложений на XCode.
+Сборка Android приложений на Android Studio.
+ADB (управление андройд девайсами).
+Настройка прокси и VPN на iOS и Android.
+Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.
+SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
+База данных Postgres.
+Нереляционная база данных Redis.
+Jmeter (нагрузочное тестирование).
+Работа в методологии Scrum.
