@@ -1,0 +1,14 @@
+1. ID
+2. Summary: Ошибка валидации поля "Name" при вводе минимального кол-ва валидных символов",
+3. Steps to reproduce: 1. Открыть сайт
+                       2. Ввести Alx в поле "Name"
+                       3. Ввести F@n23id в поле "Password"
+                       4. Нажать кнопку зарегистрироваться
+4. Expected result: Отображается сообщение об ошибке: "Заполните, пожалуйста, все поля!"
+5. Actual result: Отображается сообщение об успешной регистрации: "Success! Hello: Alx."
+6. Severity: Major
+7. Priority: High
+8. Status: Opened
+9. Author: Sedykh Alex
+10. Attachments: added file.jpg
+                 added file.log
